@@ -8,6 +8,6 @@ $msgwe = "[!] info withdraw work with delay 10 sec";
 $msgveeu = "[!] enjoy your life";
 $data= [
  
-'iasra 5115','Adhiel','isi user disini','isi user disini'       
+'asra 5115','Adhiel','isi user disini','isi user disini'       
  //contoh 'gratisan 2018','Gratisan 2018' besar kecilnya huruf sangat berpengaruh
 ];
