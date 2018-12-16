@@ -7,8 +7,7 @@ $msgyd = "[!] enjoy your life";
 $msgwe = "[!] info withdraw work with delay 10 sec";
 $msgveeu = "[!] enjoy your life";
 $data= [
-'unbk Ruang 2','Faqih Khoiril Anam','wakhidul khoiri','Ashter Konoha','Dwi Putri Handayani','Nawirul Fadly',
- 'Faqih Khoiril Anam','Wakhidul Khoiri','elvanza nabila','Silvia Diaz389','User_1527989487501','ZELL• MLBB',
- 'Saiful arif in channel','Media Onlineku','Retno Keyza','Pemuda Gang Tengah','gang tengah','nawirul fadly'      ];
-$ydnews = ['tes',];
-$toto = ['tes',];
+ 
+'isi user disini','isi user disini','isi user disini','isi user disini'       
+ //contoh 'gratisan 2018','Gratisan 2018' besar kecilnya huruf sangat berpengaruh
+];
