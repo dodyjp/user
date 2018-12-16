@@ -10,4 +10,7 @@ $data= [
  
 'asra 5115','Adhiel','Saiful Arifin','Qiandra'       
  //contoh 'gratisan 2018','Gratisan 2018' besar kecilnya huruf sangat berpengaruh
+ 
+ $toto = ['nama profil disini',];
+ 
 ];
