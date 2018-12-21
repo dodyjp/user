@@ -11,8 +11,10 @@ $data= [
 'asra 5115','Adhiel','Saiful Arifin','Qiandra','Wakhidul Kh S Kom','Hamka','Syahrul','Rohman Gado','Nur','Mince Mayola'       
  //contoh 'gratisan 2018','Gratisan 2018' besar kecilnya huruf sangat berpengaruh
  ];
- $t = ['asra 5115','Adhiel','Saiful Arifin','Qiandra','Wakhidul Kh S Kom','Hamka','Syahrul','Rohman Gado','Nur','Mince Mayola','unbk Ruang 2','Faqih Khoiril Anam','wakhidul khoiri','Ashter Konoha','Dwi Putri Handayani','Nawirul Fadly',
+ $toto = [
+  'asra 5115','Adhiel','Saiful Arifin','Qiandra','Wakhidul Kh S Kom','Hamka','Syahrul','Rohman Gado','Nur','Mince Mayola','unbk Ruang 2','Faqih Khoiril Anam','wakhidul khoiri','Ashter Konoha','Dwi Putri Handayani','Nawirul Fadly',
  'Faqih Khoiril Anam','Wakhidul Khoiri','elvanza nabila','Silvia Diaz389','User_1527989487501','ZELL• MLBB',
- 'Saiful arif in channel','Media Onlineku','Retno Keyza','Pemuda Gang Tengah','gang tengah','nawirul fadly','wahyu ashter'];
+ 'Saiful arif in channel','Media Onlineku','Retno Keyza','Pemuda Gang Tengah','gang tengah','nawirul fadly','wahyu ashter'
+ ];
  
 
