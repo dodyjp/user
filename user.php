@@ -8,9 +8,9 @@ $msgwe = "[!] info withdraw work with delay 10 sec";
 $msgveeu = "[!] enjoy your life";
 $data= [
  
-'asra 5115','Adhiel','Saiful Arifin','Qiandra','Wakhidul Kh S Kom','Hamka','Syahrul'       
+'asra 5115','Adhiel','Saiful Arifin','Qiandra','Wakhidul Kh S Kom','Hamka','Syahrul','Rohman Gado','Nur','Mince Mayola'       
  //contoh 'gratisan 2018','Gratisan 2018' besar kecilnya huruf sangat berpengaruh
  ];
- $toto = ['asra 5115','Adhiel','Saiful Arifin','Qiandra',];
+ $toto = ['asra 5115','Adhiel','Saiful Arifin','Qiandra','Wakhidul Kh S Kom','Hamka','Syahrul','Rohman Gado','Nur','Mince Mayola'];
  
 
